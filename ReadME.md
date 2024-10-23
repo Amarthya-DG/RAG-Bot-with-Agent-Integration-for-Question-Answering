@@ -42,7 +42,7 @@ export SERPAPI_API_KEY="your-serpapi-api-key"
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/mygithublink/rag-model-question-answering.git
+git clone My Respository
 cd rag-model-question-answering
 Install dependencies:
 
