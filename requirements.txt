@@ -1,0 +1,11 @@
+streamlit
+langchain_community
+langchain
+bs4
+faiss-cpu
+google-generativeai
+python-dotenv
+langchain-google-genai
+pypdf2
+google-search-results
+wikipedia
